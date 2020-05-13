@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "BaitQ",
+  "shortName": "baitq",
+  "description": "Collaborate, Inform, Protect",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"

@@ -1,8 +1,9 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# Contact Tracing - Collaborate, Inform, Protect.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+Contact Tracing is a privacy-first system for anonymous Bluetooth proximity-based exposure alerting based on voluntary symptom sharing. Communities of close contacts can begin protecting themselves with Contact Tracing immediately; we don't need millions of people to install the app, and we don't have to wait for testing to ramp up. By installing Contact Tracing and reporting symptoms, you and the people you interact with can create your own early warning system to detect and respond to any infectious disease such as COVID-19.
+[Download APK](https://www.dropbox.com/s/21mpc5j5hs97y4p/app-release.apk?dl=1)
 
 So far we've got:
 
